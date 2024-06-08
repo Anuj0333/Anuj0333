@@ -4,10 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj0333" alt="Sajal Rastogi" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Backend (Spring Boot)**
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **Django**
+- 🌱 I’m currently learning **DSA**
 - 👯 I’m looking to collaborate on **Web Development Project Ideas**
-- 💬 Ask me about **Backend and MySQL**
+- 💬 Ask me about **Python and MySQL**
 - 📫 How to reach me: **anuj.gupta.0812.vns@gmail.com**
 - ⚡ Fun fact: **I think I am Handsome (True)**
 <br>
