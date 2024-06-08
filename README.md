@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Web Development Project Ideas**
 - 💬 Ask me about **Python and MySQL**
 - 📫 How to reach me: **anuj.gupta.0812.vns@gmail.com**
-- ⚡ Fun fact: **I think I am Handsome (True)**
+<!--- ⚡ Fun fact: **I think I am Handsome (True)**-->
 <br>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Anuj0333&repo=Anuj0333&countColor=%237B1E7A)
