@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center"> <img src="https://github.com/Anuj0333/Anuj0333/blob/master/Linkedin%20Background.png"> </div>
+<h3 align="center">A passionate Backend Developer </h3>
 
-<!--
-**Anuj0333/Anuj0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj0333" alt="Sajal Rastogi" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Backend (Spring Boot)**
+- 🌱 I’m currently learning **AWS**
+- 👯 I’m looking to collaborate on **Web Development Project Ideas**
+- 💬 Ask me about **Backend and MySQL**
+- 📫 How to reach me: **anuj.gupta.0812.vnsAgmail.com**
+- ⚡ Fun fact: **I think I am Handsome (True)**
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://api.visitorbadge.io/api/VisitorHit?user=Anuj0333&repo=Anuj0333&countColor=%237B1E7A)
+  
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+     <div style="flex-basis: 30%;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj0333&show_icons=true&locale=en&layout=compact" alt="Anuj0333" /></p>
+  </div> 
+ <div style="flex-basis: 30%;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anuj0333&show_icons=true&locale=en" alt="Anuj0333" /></p>
+  </div>
+
+
+  <div style="flex-basis: 30%;">
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj0333&" alt="Anuj0333" /></p>
+  </div>
+  </div>
+  
