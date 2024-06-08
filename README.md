@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **AWS**
 - 👯 I’m looking to collaborate on **Web Development Project Ideas**
 - 💬 Ask me about **Backend and MySQL**
-- 📫 How to reach me: **anuj.gupta.0812.vnsAgmail.com**
+- 📫 How to reach me: **anuj.gupta.0812.vns@gmail.com**
 - ⚡ Fun fact: **I think I am Handsome (True)**
 <br>
 
