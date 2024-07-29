@@ -22,6 +22,7 @@
   </div> 
  <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anuj0333&show_icons=true&locale=en" alt="Anuj0333" /></p>
+   <p><img align="center" src="https://api.badgr.io/public/assertions/RWIgYT8NQn6UX6FY2bMWZw?identity__email=anuj.gupta.0812.vns%40gmail.com&" alt="Postman API Fundamentals Student Expert" /></p>
   </div>
 
 
