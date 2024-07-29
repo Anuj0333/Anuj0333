@@ -27,7 +27,7 @@
 
   <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj0333&" alt="Anuj0333" /></p>
-    <p><img align="center" src="https://api.badgr.io/public/assertions/RWIgYT8NQn6UX6FY2bMWZw?identity__email=anuj.gupta.0812.vns%40gmail.com&" alt="Postman API Fundamentals Student Expert" /></p>
+    <p><img align="center" src="C:\Users\ASUS\Downloads\Postman - Postman API Fundamentals Student Expert - 2024-07-27.png&" alt="Postman API Fundamentals Student Expert" /></p>
   </div>
   </div>
   
