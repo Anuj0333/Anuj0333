@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://github.com/Anuj0333/Anuj0333/blob/master/Linkedin%20Background.png"> </div>
 <h3 align="center">A passionate Backend Developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj0333" alt="Sajal Rastogi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj0333" alt="Anuj Kumar Gupta" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Django**
@@ -27,7 +27,7 @@
 
   <div style="flex-basis: 30%;">
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj0333&" alt="Anuj0333" /></p>
-    <p><img align="center" src="C:\Users\ASUS\Downloads\Postman - Postman API Fundamentals Student Expert - 2024-07-27.png&" alt="Postman API Fundamentals Student Expert" /></p>
+    <p><img align="left" src="C:\Users\ASUS\Downloads\Postman - Postman API Fundamentals Student Expert - 2024-07-27.png&" alt="Postman API Fundamentals Student Expert" /></p>
   </div>
   </div>
   
