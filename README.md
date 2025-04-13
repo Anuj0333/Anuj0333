@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Anujgupta0333?theme=light&font=Karma" alt="LeetCode Stats" />
-</div>
-
-
-
-<div align="center">
   <img src="https://github.com/Anuj0333/Anuj0333/blob/master/Linkedin%20Background.png" alt="Banner" />
 </div>
 
@@ -52,6 +46,13 @@
     <img src="https://img.shields.io/badge/HackerRank-anuj__gupta0812-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Anujgupta0333?theme=light&font=Karma" alt="LeetCode Stats" />
+</div>
+
+
+
 
 ### 📊 GitHub Stats
 
