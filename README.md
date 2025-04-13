@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/LeetCode-Anujgupta0333-orange?style=flat-square&logo=LeetCode&logoColor=white" />
   </a>
   
-  <a href="https://auth.geeksforgeeks.org/user/anujgupta0333/practice" target="_blank">
-    <img src="[https://img.shields.io/badge/GeeksforGeeks-AnujGupta0333](https://www.geeksforgeeks.org/user/anujgupleso/)-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/user/anujgupleso/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-anujgupleso-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
   </a>
   
   <a href="https://codeforces.com/profile/anujgupta0333" target="_blank">
