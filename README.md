@@ -43,18 +43,7 @@
   </a>
 
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Anujgupta0333?theme=light&font=Karma" alt="LeetCode Stats" />
-</div>
 
-
-## 🏅 LeetCode Medal
-
-<p align="left">
-  <a href="https://leetcode.com/medal/?showImg=0&id=6618027&isLevel=false" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode%20Medal-Anujgupta0333-FFA500?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Medal" />
-  </a>
-</p>
 
 ## 🏅 LeetCode Profile
 
