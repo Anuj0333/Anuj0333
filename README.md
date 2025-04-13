@@ -41,6 +41,11 @@
   <a href="https://www.hackerrank.com/profile/anuj_gupta_08121" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-anuj__gupta__08121-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
   </a>
+
+
+  <a href="https://leetcode.com/medal/?showImg=0&id=6618027&isLevel=false" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode%20Medal-Anujgupta0333-FFA500?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Medal" />
+  </a>
 </p>
 
 <div align="center">
