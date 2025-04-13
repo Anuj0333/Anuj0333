@@ -1,23 +1,3 @@
-## 🧠 Competitive Programming Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/Anujgupta0333/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Anujgupta0333-orange?style=flat-square&logo=LeetCode&logoColor=white" />
-  </a>
-  
-  <a href="https://auth.geeksforgeeks.org/user/anujgupta0333/practice" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-AnujGupta0333-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/anujgupta0333" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-anujgupta0333-1f3af?style=flat-square&logo=Codeforces&logoColor=white" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/anuj_gupta0812" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-anuj__gupta0812-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Anujgupta0333?theme=light&font=Karma" alt="LeetCode Stats" />
 </div>
@@ -51,6 +31,27 @@
 - 📫 Reach me at: **anuj.gupta.0812.vns@gmail.com**
 
 ---
+
+
+## 🧠 Competitive Programming Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/Anujgupta0333/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Anujgupta0333-orange?style=flat-square&logo=LeetCode&logoColor=white" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/anujgupta0333/practice" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-AnujGupta0333-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/anujgupta0333" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-anujgupta0333-1f3af?style=flat-square&logo=Codeforces&logoColor=white" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/anuj_gupta0812" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-anuj__gupta0812-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
