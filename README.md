@@ -38,12 +38,8 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-anujgupleso-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
   </a>
   
-  <a href="https://codeforces.com/profile/anujgupta0333" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-anujgupta0333-1f3af?style=flat-square&logo=Codeforces&logoColor=white" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/anuj_gupta0812" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-anuj__gupta0812-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/anuj_gupta_08121" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-anuj__gupta__08121-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
