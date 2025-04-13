@@ -35,7 +35,7 @@
   </a>
   
   <a href="https://auth.geeksforgeeks.org/user/anujgupta0333/practice" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-AnujGupta0333-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
+    <img src="[https://img.shields.io/badge/GeeksforGeeks-AnujGupta0333](https://www.geeksforgeeks.org/user/anujgupleso/)-1f8f2e?style=flat-square&logo=GeeksforGeeks&logoColor=white" />
   </a>
   
   <a href="https://codeforces.com/profile/anujgupta0333" target="_blank">
