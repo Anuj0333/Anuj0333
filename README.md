@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Anuj0333/Anuj0333/main/Linkedin_Banner_Anuj.png" alt="Banner" />
 </div>
 
-
 <h3 align="center">Hi there 👋, I'm Anuj Kumar Gupta</h3>
 
 <h4 align="center">A Passionate Backend Developer | Python Enthusiast | Django Developer</h4>
