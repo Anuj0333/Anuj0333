@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anuj0333/Anuj0333/blob/master/ChatGPT%20Image%20Apr%2014,%202025,%2001_32_34%20AM.png" alt="Banner" />
+  <img src="https://github.com/Anuj0333/Anuj0333/blob/master/ChatGPT Image Apr 14, 2025, 01_32_34 AM.png" alt="Banner" />
 </div>
 
 <h3 align="center">Hi there 👋, I'm Anuj Kumar Gupta</h3>
