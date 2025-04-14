@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anuj0333/Anuj0333/main/Linkedin_Banner_Anuj.png" alt="Banner" />
+  <img src="[https://raw.githubusercontent.com/Anuj0333/Anuj0333/main/Linkedin_Banner_Anuj.png](https://github.com/Anuj0333/Anuj0333/blob/main/Linkedin_Banner_Anuj.png)" alt="Banner" />
 </div>
 
 <h3 align="center">Hi there 👋, I'm Anuj Kumar Gupta</h3>
